@@ -1,0 +1,15 @@
+{
+  "name": "vue-syntax-c9",
+  "version": "1.0.0",
+  "description": "Yeah. Yeah!",
+  "author": "Bob de Ruiter",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bopjesvla/vue-syntax-c9.git"
+  },
+  "plugins": {
+    "vuelang": {}
+  },
+  "categories": ["miscellaneous"],
+  "licenses": []
+}
